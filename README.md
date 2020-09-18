@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-- github.com/EinsamWulf/Cybersecurity-Projects/Diagrams/Azure%20Diagram.jpg
+- https://github.com/EinsamWulf/Cybersecurity-Projects/blob/master/Diagrams/Azure%20Diagram.jpg
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the install-elk.yml and filebea-playbook.yml files may be used to install only certain pieces of it, such as Filebeat.
 
